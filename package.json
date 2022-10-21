@@ -1,16 +1,16 @@
 {
-"name": "88thai",
-"theme": "88thai",
-"version": "5.8.2",
-"description": "88thai ทางเข้าเว็บสล็อตเว็บตรง ไม่มีขั้นต่ำ ให้เงินเครดิตฟรี",
-"keywords": [
-"88thai",
-"88thai เครดิตฟรี",
-"88thai ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/88thai",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "88thai",
+  "theme": "88thai",
+  "version": "5.9.0",
+  "description": "88thai ทางเข้าเว็บสล็อตเว็บตรง ไม่มีขั้นต่ำ ให้เงินเครดิตฟรี",
+  "keywords": [
+    "88thai",
+    "88thai เครดิตฟรี",
+    "88thai ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/88thai",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
